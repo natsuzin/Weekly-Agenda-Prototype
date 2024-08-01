@@ -12,7 +12,7 @@ O programa a ser implementado deve permitir as seguintes operações (através d
 Subrotina(s) auxiliar(es): pesquisa e ordenação deverão ser implementadas de forma recursiva.
 A qualquer entrada de dados deve-se realizar tratamento de dados/validação (inclusive de tipo). O sistema deverá apresentar uma interface básica, com menu e controle de rolamento de tela.
 
-
+---
 
 ## THEME: RECORDS/STRUCTS + RECURSION - C++ LANGUAGE
 Develop the prototype of a weekly agenda of appointments. The information about each appointment is organized by day of the week, and for each day there is the current date (day, month, year and day of the week), and the appointments, whose information is start and end time (hour, minute), type (meeting, activity, birthday), location and subject (texts). Use structured types to represent this information. The weekly agenda should be tored in a vector, organized by date/time. 
